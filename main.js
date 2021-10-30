@@ -100,3 +100,10 @@ function testing() {
 	}
 }
 
+/**
+ * Encuentra las opciones correctas
+ */
+function  findCorrectAnswer() {
+	
+}
+

@@ -8,3 +8,10 @@
     opacity: 0.3;
 }
    
+ul{list-style:none;}
+
+li::before{
+	font-family:"Font Awesome 5 Free";
+	content:"\f0eb";
+	margin-right:8px;
+}
